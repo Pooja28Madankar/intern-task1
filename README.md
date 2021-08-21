@@ -1,4 +1,4 @@
-# MindTales_Blog
+# spicethecurry_Blog
 
 The Intern Academy Internship  
 Domain: Web Development  
